@@ -9,3 +9,6 @@ __pycache__/
 sessions/
 #忽略资源文件（图片之类，保护隐私）
 resources/
+
+deepseek调用测试.py
+kimi调用测试.py
