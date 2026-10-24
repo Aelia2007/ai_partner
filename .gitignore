@@ -1,0 +1,11 @@
+#忽略虚拟环境
+.venv/
+#忽略编译后的文件
+__pycache__/
+*.pyc
+#忽略streamlit的密钥文件
+.streamlit/secrets.toml
+#忽略会话文件（聊天记录，保护隐私）
+sessions/
+#忽略资源文件（图片之类，保护隐私）
+resources/
